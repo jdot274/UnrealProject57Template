@@ -1,0 +1,42 @@
+# Unreal Engine generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+.idea/
+
+# Compiled binaries
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln
+*.xcodeproj
+*.xcworkspace
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.opendb
+
+# Cooked content
+Content/Cooked/
+
+# Build output
+*.app
+*.ipa
+*.exe
+*.dll
+*.dylib
+*.so
+*.lib
+*.a
+
+# Crash reporter
+Crashes/
+
+# Misc
+DefaultEditorPerProjectUserSettings.ini
